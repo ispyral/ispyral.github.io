@@ -1,2 +1,1 @@
-# ispyralling.github.io
-Joan of Archives.
+Joan of Archives
