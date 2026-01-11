@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joan of Archives</title>
+    <link>ispyral.github.io/</link>
+    <description>Recent content on Joan of Archives</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jan 2026 21:44:21 -0500</lastBuildDate>
+    <atom:link href="ispyral.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>testing</title>
+      <link>ispyral.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Jan 2026 21:44:21 -0500</pubDate>
+      <guid>ispyral.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;testing testing testing&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
